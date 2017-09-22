@@ -37,10 +37,6 @@ python Manish-Hacker
 ● About !!!
 ● Exit
 
-## ★ Screenshot:
-
-![pic1](http://i.imgur.com/ZhqvfgS.png)
-
 
 ● YOUTUBE : 
 
